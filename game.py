@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Last Modified    : 5/17/2017 1:25 PM
 # @Author  : Snow
-# @email   : v-xiliu1@microsoft.com
+# @email   : liuxx@nlp.nju.edu.cn
 # @Description:
 
 import pygame
